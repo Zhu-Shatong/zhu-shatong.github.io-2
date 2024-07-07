@@ -109,8 +109,8 @@ work:
 
   - position: LLM Algorithm Engineer Intern
     company_name: Meetsocial Co., Ltd.
-    company_url: ""
-    company_logo: ""
+    company_url: "custom/meetsocial"
+    company_logo: "https://en.meetsocial.com/"
     date_start: 2024-06-16
     date_end: 2024-03-13
     summary: |
