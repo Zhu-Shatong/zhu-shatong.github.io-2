@@ -97,7 +97,7 @@ education:
 work:
   - position: Development Engineer Intern
     company_name: ZhongAn Online P & C Insurance Co., Ltd.
-    company_url: ""
+    company_url: "https://www.zhongan.com/"
     company_logo: ""
     date_start: 2024-07-01
     date_end: 2024-08-01
@@ -193,15 +193,15 @@ awards:
 
 ## About Me
 
-Hi there! 👋 I'm currently a senior student majoring in Data Science at Tongji University, ranking in the top three of my class. Throughout my academic journey, I have received numerous accolades, including the First-Class Scholarship in my freshman year, the National Scholarship in my sophomore year, and a full GPA in my junior year.
+Hi there! 👋 I'm currently a senior student majoring in Data Science at <a href=https://en.tongji.edu.cn/p/#/> Tongji University</a>, ranking in the top 3 of my class. Throughout my academic journey, I have received numerous accolades, including the First-Class Scholarship in my freshman year, the National Scholarship in my sophomore year, and a full GPA in my junior year.
 
 I am honored to have won three national competition awards, two of which are First Prizes.
 
-My practical experience is equally robust, having completed internships as an LLM Algorithm Engineer Intern at Meetsocial and a Development Engineer Intern at ZhongAn Online P & C Insurance, totaling four months and contributing to five projects.
+My practical experience is equally robust, having completed internships as an LLM Algorithm Engineer Intern at <a href=https://en.meetsocial.com/>Meetsocial</a> and a Development Engineer Intern at <a href=https://www.zhongan.com/>ZhongAn Online P & C Insurance</a>, totaling 4 months and contributing to 5 projects.
 
-My research endeavors are extensive and varied. At the TIEV Lab of Tongji University, under the supervision of Prof. Junqiao Zhao, I have been engaged in research on Multi-Agent Reinforcement Learning (MARL) and am preparing to submit a paper to AAAI as a co-first author. Additionally, at Zhejiang Lab, I assisted in offline Meta Reinforcement Learning research, with our paper currently under review at NeurIPS. Continuing my work in Meta RL, I have expanded my research into new domains at the TIEV Lab. Furthermore, at the Institute for Interdisciplinary Information Science at Tsinghua University, I have conducted research on robotics control under the mentorship of Hai Zhang.
+My research endeavors are extensive and varied. At the TIEV Lab of Tongji University, under the supervision of <a href=http://cs1.tongji.edu.cn/~junqiao/>Prof. Junqiao Zhao</a>, I have been engaged in research on Multi-Agent Reinforcement Learning (MARL) and am preparing to submit <a href=https://arxiv.org/abs/2405.08036>a paper</a> to AAAI as a co-first author. Additionally, at Zhejiang Lab, I assisted in offline Meta Reinforcement Learning research, with <a href=https://arxiv.org/abs/2402.02429>our paper</a> currently under review at NeurIPS. Continuing my work in Meta RL, I have expanded my research into new domains at the TIEV Lab. Furthermore, at the Institute for Interdisciplinary Information Science at Tsinghua University, I have conducted research on robotics control under the mentorship of Hai Zhang.
 
-In addition to my research experience, I have authored two first-author papers derived from competition projects and hold two software copyrights.
+In addition to my research experience, I have authored 2 first-author papers derived from competition projects and hold 2 software copyrights.
 
 🏆 Recipient of the National Scholarship 2023
 
