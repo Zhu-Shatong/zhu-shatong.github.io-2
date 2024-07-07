@@ -42,6 +42,9 @@ profiles:
 
   - icon: "custom/csdn"
     url: https://blog.csdn.net/zhushatong
+
+  - icon: "custom/zhihu"
+    url: https://blog.csdn.net/zhushatong
   # - icon: brands/linkedin
   #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
