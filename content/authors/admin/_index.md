@@ -193,4 +193,18 @@ awards:
 
 ## About Me
 
-tmp
+Hi there! 👋 I'm currently a senior student majoring in Data Science at Tongji University, ranking in the top three of my class. Throughout my academic journey, I have received numerous accolades, including the First-Class Scholarship in my freshman year, the National Scholarship in my sophomore year, and a full GPA in my junior year.
+
+I am honored to have won three national competition awards, two of which are First Prizes.
+
+My practical experience is equally robust, having completed internships as an LLM Algorithm Engineer Intern at Meetsocial and a Development Engineer Intern at ZhongAn Online P & C Insurance, totaling four months and contributing to five projects.
+
+My research endeavors are extensive and varied. At the TIEV Lab of Tongji University, under the supervision of Prof. Junqiao Zhao, I have been engaged in research on Multi-Agent Reinforcement Learning (MARL) and am preparing to submit a paper to AAAI as a co-first author. Additionally, at Zhejiang Lab, I assisted in offline Meta Reinforcement Learning research, with our paper currently under review at NeurIPS. Continuing my work in Meta RL, I have expanded my research into new domains at the TIEV Lab. Furthermore, at the Institute for Interdisciplinary Information Science at Tsinghua University, I have conducted research on robotics control under the mentorship of Hai Zhang.
+
+In addition to my research experience, I have authored two first-author papers derived from competition projects and hold two software copyrights.
+
+🏆 Recipient of the National Scholarship 2023
+
+🏆 RoboCup2024 (China Robot Championship and The RoboCup China Open), National 1st Prize
+
+🏆 ISCC2024 (Information Security and Countermeasures Contest), National 1st Prize
