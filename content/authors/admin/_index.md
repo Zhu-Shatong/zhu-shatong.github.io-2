@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/Zhu-Shatong
 
-  - icon: csdn
+  - icon: assets/media/icons/csdn
     url: https://blog.csdn.net/zhushatong
   # - icon: brands/linkedin
   #   url: https://www.linkedin.com/
